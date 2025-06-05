@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hhf5hpniu-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/hhf5hpniu-go
